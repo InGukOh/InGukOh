@@ -36,11 +36,3 @@
 <br>
 <br>
 <br>
-
-## ##Link##
-<ul>
-  <li><a href="http://dhdlsrnr1232.cafe24.com/">배포용 게시판 프로젝트</a></li>
-  <li><a href="">링크1</a></li>
-  <li><a href="">링크2</a></li>
-  <li><a href="">링크3</a></li>
-</ul>
