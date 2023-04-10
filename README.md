@@ -1,3 +1,4 @@
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Introduce👋&fontSize=90"></p>
 <p align="center">![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Introduce👋&fontSize=90)</p>
 <h2 align="center">개발자 오인국 입니다</h2>
 
