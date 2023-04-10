@@ -39,7 +39,7 @@
 
 <ul>
   <li><a href="https://github.com/InGukOh/CocktailerService">칵테일러 </a></li>
-   <li><a href="https://github.com/InGukOh/Project_Lofi_Co-op](https://github.com/InGukOh/EliceTrack_Project01">개발새발네발</a></li>
+  <li><a href="https://github.com/InGukOh/EliceTrack_Project01">개발새발네발</a></li>
   <li><a href="https://github.com/InGukOh/Project_Lofi_Co-op">Lofi프로젝트</a></li>
   <li><a href="https://github.com/InGukOh/Paimon_Will_Calc">페이몬이 계산해줄게!</a></li>
   <li><a href="https://github.com/InGukOh/hk3fg">배포용 프로젝트</a></li>
