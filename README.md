@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Introduce👋&fontSize=90)
+<p align="center">![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Introduce👋&fontSize=90)</p>
 <h2 align="center">개발자 오인국 입니다</h2>
 
 <p><strong>고민과 걱정을 소통으로 해쳐나가는 백엔드 엔지니어 지원자 오 인국입니다.</strong></p>
